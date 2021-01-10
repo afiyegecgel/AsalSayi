@@ -1,0 +1,7 @@
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\bin\Debug\AsalSayi.exe.config
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\bin\Debug\AsalSayi.exe
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\bin\Debug\AsalSayi.pdb
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\obj\Debug\AsalSayi.csprojAssemblyReference.cache
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\obj\Debug\AsalSayi.csproj.CoreCompileInputs.cache
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\obj\Debug\AsalSayi.exe
+C:\Users\afiye.gecgel\Desktop\C# Çalışmaları\GeleceğiYazanlar Turkcell\AsalSayi\AsalSayi\obj\Debug\AsalSayi.pdb
